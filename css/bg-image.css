@@ -1,0 +1,8 @@
+.bg-image {
+    background-image: url("../img/rocket.png");
+    background-color: #858796;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
